@@ -15,7 +15,7 @@ pyparsing==2.4.5
 pypiwin32==223
 pytest==5.3.2
 pytest-cov==2.8.1
-pywin32==219
+pywin32==223
 requests==2.22.0
 selenium==3.141.0
 six==1.13.0
